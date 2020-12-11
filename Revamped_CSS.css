@@ -21,8 +21,8 @@ body{
 	width:80%
 	margin:auto;
 	
-	border-right:5px black solid;
-	border-left:5px black solid;
+	border-right:5px red solid;
+	border-left:5px red solid;
 	
 	padding:20px;
 }
